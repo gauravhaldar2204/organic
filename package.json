@@ -1,0 +1,16 @@
+{
+  "name": "organic-store",
+  "version": "1.0.0",
+  "description": "Organic Fruits & Vegetables Store HTML Template",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server --port=3000 --open=/index.html",
+    "start": "live-server --port=3000 --open=/index.html"
+  },
+  "keywords": ["html", "css", "template", "organic", "store"],
+  "author": "TemplatesJungle.com",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
